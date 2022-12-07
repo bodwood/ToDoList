@@ -1,0 +1,12 @@
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
