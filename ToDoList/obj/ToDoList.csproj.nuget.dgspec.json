@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {}
+    "C:\\Users\\bodie\\OneDrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {
+    "C:\\Users\\bodie\\OneDrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "C:\\Users\\bodie\\OneDrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+        "projectPath": "C:\\Users\\bodie\\OneDrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\bodie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bodie\\onedrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\obj\\",
+        "outputPath": "C:\\Users\\bodie\\OneDrive\\desktop\\epicodus-projects\\ToDoList.Solution\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bodie\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
