@@ -8,13 +8,25 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDoList
 build_property.RootNamespace = ToDoList
-build_property.ProjectDir = c:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\
+build_property.ProjectDir = C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList
+build_property.MSBuildProjectDirectory = C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/bodie/OneDrive/desktop/epicodus-projects/ToDoList.Solution/ToDoList/Views/Home/Index.cshtml]
+[C:/Users/bodie/OneDrive/desktop/epicodus-projects/ToDoList.Solution/ToDoList/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodie/OneDrive/desktop/epicodus-projects/ToDoList.Solution/ToDoList/Views/Items/CreateForm.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlRm9ybS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodie/OneDrive/desktop/epicodus-projects/ToDoList.Solution/ToDoList/Views/Items/DeleteAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlQWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bodie/OneDrive/desktop/epicodus-projects/ToDoList.Solution/ToDoList/Views/Items/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

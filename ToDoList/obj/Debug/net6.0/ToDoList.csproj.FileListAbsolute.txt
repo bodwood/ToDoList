@@ -10,3 +10,12 @@ C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj
 C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
 C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.pdb
 C:\Users\bodie\onedrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.exe
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cache
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.RazorAssemblyInfo.cs
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\scopedcss\bundle\ToDoList.styles.css
+C:\Users\bodie\OneDrive\desktop\epicodus-projects\ToDoList.Solution\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
